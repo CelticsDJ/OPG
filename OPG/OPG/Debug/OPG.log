@@ -1,0 +1,4 @@
+﻿  OPG.cpp
+c:\users\apple\desktop\opg\opg\opg.cpp(459): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\apple\desktop\opg\opg\opg.cpp(466): warning C4018: “<”: 有符号/无符号不匹配
+  OPG.vcxproj -> C:\Users\apple\Desktop\OPG\Debug\OPG.exe
